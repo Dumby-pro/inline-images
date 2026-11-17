@@ -1,0 +1,5 @@
+{
+  "name": "inline-images",
+  "owner": { "name": "Dumby-pro" },
+  "plugins": [{ "name": "inline-images", "source": "./" }]
+}

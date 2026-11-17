@@ -1,0 +1,1 @@
+{ "name": "inline-images", "version": "0.1.0", "description": "Lets Claude show PNG images inline in the chat (kitty / Ghostty / iTerm2)", "license": "MIT" }
